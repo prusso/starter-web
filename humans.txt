@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paul Russo paulrusso.professional@gmail.com prusso on github
 
 # THANKS
 
