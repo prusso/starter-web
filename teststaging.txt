@@ -1,3 +1,0 @@
-This is a test of how WD->Staging->Repo works
-
-So now lets modify this file and try a commit -am
